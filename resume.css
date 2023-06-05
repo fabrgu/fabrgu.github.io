@@ -14,7 +14,7 @@ body {
     font-weight:400;
     line-height:1.4;
     text-rendering:optimizeLegibility;
-    font-display: swap
+    font-display:swap
 }
   
 .skill-set li:hover {
@@ -75,6 +75,7 @@ h1 {
     font-family:Open Sans, sans-serif;
     font-size:1.5em;
     text-align:center;
+    font-display:swap
 }
   
 .name-hero h1 em {
@@ -175,5 +176,6 @@ h1 {
     font-family: 'Shadows Into Light', cursive;
     font-size: 1.25em;
     margin-left:5px;
+    font-display: swap
   }
 }
